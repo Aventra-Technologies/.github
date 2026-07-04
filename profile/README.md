@@ -57,6 +57,7 @@ Bamboo Browser is a premium desktop browser project built with Electron and a mo
 
 - GitHub organization: [github.com/Aventra-Technologies](https://github.com/Aventra-Technologies)
 - Projects: [Flux Tasks](https://github.com/Aventra-Technologies/Flux-Tasks) and [Bamboo Browser](https://github.com/Aventra-Technologies/Bamboo-Browser)
+- Telegram: [t.me/aventra_technologies](https://t.me/aventra_technologies)
 
 ---
 
