@@ -10,7 +10,7 @@
 
 We build local-first tools that help developers, creators, and teams stay productive without giving up control over their data.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aventra--LLC-181717?style=for-the-badge&logo=github)](https://github.com/Aventra-Technologies)
+[![GitHub](https://img.shields.io/badge/GitHub-Aventra--Technologies-181717?style=for-the-badge&logo=github)](https://github.com/Aventra-Technologies)
 [![TypeScript](https://img.shields.io/badge/TypeScript-primary_stack-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Electron](https://img.shields.io/badge/Electron-desktop_apps-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
 
