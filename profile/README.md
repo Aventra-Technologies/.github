@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Aventra LLC
+# Aventra Technologies
 
 ### Privacy-first desktop software for focused builders.
 
@@ -32,7 +32,7 @@ Aventra focuses on polished desktop products with modern interfaces, offline-cap
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [Flux Tasks](https://github.com/Aventra-Technologies/Flux-Tasks) | Premium offline-first project manager and development hub with local SQLite storage, privacy by design, and optional encrypted GitHub integration. | Electron, React, TypeScript, SQLite |
-| [Bamboo Browser](https://github.com/Aventra-Technologies/Bamboo-Browser) | Premium desktop browser project built as a modern Electron application. | Electron, React, TypeScript, Vite |
+| [Aventra Browser](https://github.com/Aventra-Technologies/Aventra-Browser) | Premium desktop browser project built as a modern Electron application. | Electron, React, TypeScript, Vite |
 
 ## Engineering Principles
 
@@ -49,18 +49,18 @@ Flux Tasks is an offline-first project manager and development hub for people wh
 
 It is designed around local storage, encrypted token handling, and a workflow that remains useful with or without GitHub connected.
 
-### Bamboo Browser
+### Aventra Browser
 
 Bamboo Browser is a premium desktop browser project built with Electron and a modern React/TypeScript frontend stack.
 
 ## Connect
 
 - GitHub organization: [github.com/Aventra-Technologies](https://github.com/Aventra-Technologies)
-- Projects: [Flux Tasks](https://github.com/Aventra-Technologies/Flux-Tasks) and [Bamboo Browser](https://github.com/Aventra-Technologies/Bamboo-Browser)
+- Projects: [Flux Tasks](https://github.com/Aventra-Technologies/Flux-Tasks) and [Aventra Browser](https://github.com/Aventra-Technologies/Aventra-Browser)
 - Telegram: [t.me/aventra_technologies](https://t.me/aventra_technologies)
 
 ---
 
 <p align="center">
-  Built by Aventra LLC.
+  Built by Aventra Technologies.
 </p>
