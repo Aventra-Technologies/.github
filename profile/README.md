@@ -51,7 +51,7 @@ It is designed around local storage, encrypted token handling, and a workflow th
 
 ### Aventra Browser
 
-Bamboo Browser is a premium desktop browser project built with Electron and a modern React/TypeScript frontend stack.
+Aventra Browser is a premium desktop browser project built with Electron and a modern React/TypeScript frontend stack.
 
 ## Connect
 
