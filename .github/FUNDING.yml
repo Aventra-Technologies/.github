@@ -10,4 +10,5 @@ open_collective:
 issuehunt:
 otechie:
 
-custom:
+custom: 
+  - "https://aventra.technology/donate"
